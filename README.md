@@ -1,3 +1,3 @@
 Juego completo de números secretos, genera números aleatorios.
 
- Desarrollado en JavaScript
+ Desarrollado en JavaScript,HTML y CSS
