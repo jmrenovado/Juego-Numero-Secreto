@@ -1,1 +1,3 @@
-Juego completo de números secretos, genera números aleatorios 
+Juego completo de números secretos, genera números aleatorios.
+
+ Desarrollado en JavaScript
